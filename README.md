@@ -3,10 +3,10 @@
 <img src="/profile.gif" width="22%" align="right" />
 
 <div >
-- 🔭 I’m currently working on freelance projects
+- 🔭 I’m lokking for a job
 </div>
 <div >
-- 🌱 I’m currently learning react development     
+  - 🌱 I’m currently learning game development through <a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"> CS50's Introduction to Game Development</a>
 </div>
 <div >
 - ⚡ Fun fact: i can crack my jaw at will         
@@ -42,7 +42,20 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+</td>
+  
+<td valign="top" width="33%">
+
+### <div align="center"> Game Dev  </div>
+  <br/>
+<div align="center">  
+<img style="margin: 20px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_120,h_120/https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_QyS3RIm.png" alt="LÖVE 2D" height="50" />  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua" height="50" />  
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>  
 
