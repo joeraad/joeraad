@@ -8,7 +8,7 @@
 <div >
   - 🌱 I’m currently learning game development through <a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"> CS50's Introduction to Game Development</a> <br>
   <a href="https://github.com/joeraad/GD50-games">
-Check out my completed game projets!</a>
+Check out my completed game projects!</a>
 </div>
 <div >
 - ⚡ Fun fact: i can crack my jaw at will         
@@ -38,7 +38,7 @@ Check out my completed game projets!</a>
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 20px; background-color: white;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
