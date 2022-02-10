@@ -6,7 +6,9 @@
 - 🔭 I’m looking for a job
 </div>
 <div >
-  - 🌱 I’m currently learning game development through <a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"> CS50's Introduction to Game Development</a>
+  - 🌱 I’m currently learning game development through <a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"> CS50's Introduction to Game Development</a> <br>
+  <a href="https://github.com/joeraad/GD50-games">
+Check out my completed game projets!</a>
 </div>
 <div >
 - ⚡ Fun fact: i can crack my jaw at will         
