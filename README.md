@@ -1,5 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7636C1&lines=Heyyo+👋)](https://git.io/typing-svg)
-
+# <span color="#7636C1"> Heyyo 👋 </span>
 <img src="/profile.gif" width="22%" align="right" />
 
 <div >
@@ -7,8 +6,7 @@
 </div>
 <div >
   - 🌱 I’m currently learning game development through <a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"> CS50's Introduction to Game Development</a> <br>
-  <a href="https://github.com/joeraad/GD50-games">
-Check out my completed game projects!</a>
+  <a href="https://github.com/joeraad/GD50-games"> Check out my completed game projects!</a>
 </div>
 <div >
 - ⚡ Fun fact: i can crack my jaw at will         
