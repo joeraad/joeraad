@@ -3,7 +3,7 @@
 <img src="/profile.gif" width="22%" align="right" />
 
 <div >
-- 🔭 I’m looking for a job
+- Consultant at CGI Canada
 </div>
 <div >
   - 🌱 I’m currently learning game development through <a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development?delta=0"> CS50's Introduction to Game Development</a> <br>
