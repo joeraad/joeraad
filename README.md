@@ -82,9 +82,8 @@
 ## Listen along 
 
 <div align="center">
-  
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=phoenix_650&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=phoenix_650&cover_image=true&theme=default" align="center" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=phoenix_650&cover_image=true&theme=default&show_offline=true&background_color=280137&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=phoenix_650&redirect=true)
   
   </a>
 </div>  
